@@ -1,7 +1,7 @@
 // https://github.com/nuxt-themes/docus/blob/main/nuxt.schema.ts
 export default defineAppConfig({
   docus: {
-    title: 'MNFRM',
+    title: 'RandomTD Wiki | MNFRM',
     description: 'a wiki for the mobile game RandomTD',
     image: 'https://user-images.githubusercontent.com/904724/185365452-87b7ca7b-6030-4813-a2db-5e65c785bf88.png',
     socials: {
