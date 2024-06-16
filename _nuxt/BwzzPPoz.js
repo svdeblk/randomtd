@@ -1,0 +1,1 @@
+import{l as o,c as t,e as c,Z as r}from"./Ctx-E0d0.js";const n={};function s(e,a){return t(),c("blockquote",null,[r(e.$slots,"default",{},void 0,!0)])}const d=o(n,[["render",s],["__scopeId","data-v-f7c16e02"]]);export{d as default};

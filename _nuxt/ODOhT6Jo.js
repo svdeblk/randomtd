@@ -1,0 +1,1 @@
+import{l as r,c as t,e as a,Z as c}from"./Ctx-E0d0.js";const n={};function o(e,s){return t(),a("em",null,[c(e.$slots,"default",{},void 0,!0)])}const d=r(n,[["render",o],["__scopeId","data-v-2c5afab8"]]);export{d as default};
