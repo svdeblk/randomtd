@@ -1,1 +1,0 @@
-import{l as n,c as t,e as c,Z as o}from"./Bfx9FTVT.js";const r={};function a(e,s){return t(),c("p",null,[o(e.$slots,"default",{},void 0,!0)])}const l=n(r,[["render",a],["__scopeId","data-v-6c0a8c80"]]);export{l as default};

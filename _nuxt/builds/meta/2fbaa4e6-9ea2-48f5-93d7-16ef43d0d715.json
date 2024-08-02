@@ -1,0 +1,1 @@
+{"id":"2fbaa4e6-9ea2-48f5-93d7-16ef43d0d715","timestamp":1722629205505,"matcher":{"static":{"/api/search":{"prerender":true}},"wildcard":{},"dynamic":{}},"prerendered":["/","/introduction/getting-started","/introduction/project-structure","/towers","/introduction/writing-pages","/introduction/configuration","/gameplay/layouts","/gameplay/composables","/gameplay/components"]}

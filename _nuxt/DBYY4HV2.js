@@ -1,0 +1,1 @@
+import{l as t,c as n,e as c,Z as o}from"./CGxoT2sG.js";const r={};function s(e,_){return n(),c("td",null,[o(e.$slots,"default",{},void 0,!0)])}const d=t(r,[["render",s],["__scopeId","data-v-c5b37e66"]]);export{d as default};

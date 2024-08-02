@@ -1,1 +1,0 @@
-import{l as o,c as t,e as c,Z as r}from"./Bfx9FTVT.js";const n={};function s(e,a){return t(),c("blockquote",null,[r(e.$slots,"default",{},void 0,!0)])}const d=o(n,[["render",s],["__scopeId","data-v-05428dbb"]]);export{d as default};
