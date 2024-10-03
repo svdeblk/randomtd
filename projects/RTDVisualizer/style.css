@@ -1,0 +1,31 @@
+#board {
+    display: grid;
+    grid-template-columns: repeat(5, 50px); /* 5 columns, each 50px wide */
+    grid-template-rows: repeat(3, 50px);    /* 3 rows, each 50px tall */
+    border: 2px solid black; /* Add a border to the grid */
+    width: fit-content; /* Make the grid container fit its content */
+    margin: 20px auto; /* Center the grid on the page */
+}
+
+.cell { /* Style for each cell in the grid */
+    width: 50px;
+    height: 50px;
+    border: 1px solid #ccc; /* Add a subtle border to each cell */
+}
+
+#icon-container {
+    display: flex; 
+    margin-bottom: 20px; 
+    justify-content: center; /* Center horizontally */ 
+}
+
+.tower-icon {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px; /* Add space between icons */
+    cursor: pointer; /* Indicate that icons are clickable */
+}
+
+.cell.highlight { 
+    background-color: lightblue; /* Or any color you prefer */
+}
